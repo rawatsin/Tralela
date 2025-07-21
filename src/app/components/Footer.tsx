@@ -8,7 +8,7 @@ const Footer = () => {
             <section className="" data-aos="fade-down">
                 <div className="flex justify-between flex-wrap gap-2" >
                     <div className="flex flex-col gap-2 mb-5 md:mb-0 w-full md:w-auto items-center md:items-start justify-center md:justify-start">
-                        <Image src="/img/footer-logo.png" width={100} height={100} alt="logo" />
+                        <Image src="/img/trav.png" width={100} height={100} alt="logo" />
                         <p className="text-[12px] text-litegrey font-semibold w-full md:max-w-[200px] text-center md:text-left">Book your trip in minute, get full Control for much longer. </p>
                     </div>
 
